@@ -1,5 +1,5 @@
 # UI for scatterplot
-install.packages('shiny')
+#install.packages('shiny')
 library(shiny)
 
 # Create a shinyUI with a fluidPage layout
